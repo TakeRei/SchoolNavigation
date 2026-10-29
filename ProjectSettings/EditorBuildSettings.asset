@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: 046f0e33d80672e4db1c00a97ee7db51
+  - enabled: 0
+    path: Assets/MocopiReceiver/Samples/ReceiverSample/Scenes/ReceiverSample.unity
+    guid: a57f434f3ee95b948ab14a32ee534821
+  - enabled: 1
+    path: Assets/Scenes/SchoolNavigation.unity
+    guid: 7446b1cb85653c842af7409c3a221bda
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d0b27d1154f89f8439125e149d22cebf, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1285f915fb37af1408b17f1bc402af7d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2e9aeee8366486a469f8c29cfdd95677, type: 2}
